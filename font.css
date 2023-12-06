@@ -76,7 +76,7 @@
 	font-family: "fontello";
 	font-style: normal;
 	font-weight: normal;
-	speak: none;
+	
 
 	display: inline-block;
 	text-decoration: inherit;
@@ -11021,7 +11021,7 @@
 [data-icon]:before {
 	font-family: 'et-line';
 	content: attr(data-icon);
-	speak: none;
+	
 	font-weight: normal;
 	font-variant: normal;
 	text-transform: none;
@@ -11138,7 +11138,7 @@ you can use the generic selector below, but it's slower:
 .ic-linkedin,
 .ic-dribbble {
 	font-family: 'et-line';
-	speak: none;
+	
 	font-style: normal;
 	font-weight: normal;
 	font-variant: normal;
