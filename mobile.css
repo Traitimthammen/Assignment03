@@ -1,0 +1,72 @@
+@media only screen and (max-width: 767px) {
+    .banner {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: #fff;
+    }
+    #navbar_custom {
+        display: block;
+    }
+    #navbar_custom li a {
+        border: none!important;
+    }
+    .navbar_custom_1 {
+        display: none;
+
+    }
+    #target, #personal-info {
+    color: #3C526B;
+    padding-left: 30px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-right: 30px;
+}
+#target {
+    text-align: justify;
+    background-color: #f5f5f5;
+}
+#personal-info {
+    background-color: #f0f0f0;
+}
+#personal-info ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
+.span1 {
+    font-weight: bold;
+}
+/* Muc tieu nghe nghiep va thong tin ca nhan */
+.container2 {
+    display: block;
+    border-collapse: collapse;
+}
+  #target {
+    display: block;
+  }
+  #job-info {
+    width: 100%;
+    padding-top: 0px;
+  }
+  /* Phan kinh nghiem, hoc van, hoat dong, so thich, ngon ngu, ky nang */
+  .containerchild ul {
+    padding-top: 10px !important;
+  }
+  /* Phan chung chi giai thuong */
+  .grid2 {
+    display: block !important;
+  }
+  .cer2 {
+    border-bottom: 1px solid black;
+    }
+  .cer3 {
+    border-left: none !important;
+    }
+  /* Phan Du an */
+  .container5 {
+    display: block !important;
+  }
+  }
+
+
